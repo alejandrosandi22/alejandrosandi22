@@ -2,13 +2,7 @@
 <p>I'm software developer</p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://alejandrosandi.ml/" >Web Portfolio</a> <br>
-  <a href="https://www.facebook.com/LuisAleS22/" >Facebook<a> <br>
-  <a href="https://twitter.com/LuisAleS22" >Twitter</a> <br>
-  <a href="https://www.instagram.com/alesandi22/?hl=es" >Instagram</a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,4 +16,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://alejandrosandi.ml/"><img src=""/>Web Portfolio</a>
+  <a href="https://gitlab.com/LuisAleS22" ><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+  <a href="https://www.facebook.com/LuisAleS22/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/alesandi22" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/LuisAleS22" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
