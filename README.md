@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacts:</h3>
 <p align="left">
   <a href="https://alejandrosandi.ml/" target="_blank"><img src="https://img.shields.io/badge/-Web%20Portfolio-blue"/></a>
   <a href="mailto:alesf22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
