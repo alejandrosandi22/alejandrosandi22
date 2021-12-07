@@ -1,5 +1,5 @@
 <h1>Alejandro Sandí</h1>
-<p>I'm software developer, focus on frontend development. I have experience in proyects whit javascript and using frameworks as angular and vue. I like to learn and relearn about different technologies and tools. Also, investigate about what I don't know and about I know, because, always exist something new to learn</p>
+<p>I'm software developer, focus on frontend development. I have experience in proyects whit javascript and using frameworks as angular and vue. I like to learn and relearn about different technologies and tools. Also, investigate about what I don't know and about I know, because, always exist something new to learn.</p>
 
 
 
