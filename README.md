@@ -1,5 +1,6 @@
 <h1>Alejandro Sandí</h1>
-<p>I'm a software developer focused on frontend development. I have experience in projects with javascript and, using frameworks as angular and vue. I like to learn and relearn about different technologies and tools. Also, I investigate about what I don't know and what I know, because there wwalways exist something new to learn.</p>
+<p>I am a web developer and I am currently a student at the Universidad Estatal a Distancia of Costa Rica in a computer science career. I obtained a technical degree in computer science in networks at the CTPR San Carlos, and I did the professional practice at the Golabs development company, where I used different technologies such as Angular, Vue.js and the integration of face-api.js for facial recognition.
+I am passionate about programming, so in my free time I do different personal projects using technologies such as React, Angular, Vue.js, Typescript, Next.js, Node.js, MongoDB and others. Which I keep in my web portfolio .</p>
 
 <h3><a href="https://alejandrosandi.ml">Visit my web portfolio</a></h3>
 
