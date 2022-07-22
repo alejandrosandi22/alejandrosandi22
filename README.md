@@ -1,5 +1,8 @@
 <h2 align="left">Alejandro Sandí</h2>
+<h3 align="justify">I am a web developer and I am currently a student at the Distance State University of Costa Rica in a computer science career. I obtained a technical degree in network computing at the CTPR San Carlos, and I did the professional practice at the Golabs development company, where I used different technologies such as Angular, Vue.js and the integration of face-api.js for facial recognition.
+I am passionate about programming, so in my free time I do different personal projects using technologies such as React, Angular, Vue.js, Typescript, Next.js, Node.js, MongoDB and others. Which I keep in my web portfolio.</h3>
 
+[Visit my web portfolio](https://alejandrosandi.com)
 ###
 
 <div align="center">
