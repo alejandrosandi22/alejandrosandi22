@@ -12,10 +12,6 @@ I am passionate about programming, so in my free time I do different personal pr
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761152456443742fea06e463b775471640bb05e78baf&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
