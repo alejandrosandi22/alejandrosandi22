@@ -41,7 +41,7 @@ I am passionate about programming, so in my free time I do different personal pr
   <a href="https://instagram.com/alejandrosandi_">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://facebook.com/alejandrosandi">
+  <a href="https://facebook.com/alejandrosandi22">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="mailto:a.sandi.developer@gmail.com">
