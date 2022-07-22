@@ -1,8 +1,8 @@
-<h2 align="left">Alejandro Sandí</h2>
-<h3 align="justify">I am a web developer and I am currently a student at the Distance State University of Costa Rica in a computer science career. I obtained a technical degree in network computing at the CTPR San Carlos, and I did the professional practice at the Golabs development company, where I used different technologies such as Angular, Vue.js and the integration of face-api.js for facial recognition.
-I am passionate about programming, so in my free time I do different personal projects using technologies such as React, Angular, Vue.js, Typescript, Next.js, Node.js, MongoDB and others. Which I keep in my web portfolio.</h3>
+<h1 align="left">Alejandro Sandí</h2>
+<h4 align="justify">I am a web developer and I am currently a student at the Distance State University of Costa Rica in a computer science career. I obtained a technical degree in network computing at the CTPR San Carlos, and I did the professional practice at the Golabs development company, where I used different technologies such as Angular, Vue.js and the integration of face-api.js for facial recognition.
+I am passionate about programming, so in my free time I do different personal projects using technologies such as React, Angular, Vue.js, Typescript, Next.js, Node.js, MongoDB and others. Which I keep in my web portfolio.</h4>
 
-[Visit my web portfolio](https://alejandrosandi.com)
+### [Visit my web portfolio](https://alejandrosandi.com)
 ###
 
 <div align="center">
@@ -35,10 +35,18 @@ I am passionate about programming, so in my free time I do different personal pr
 ###
 
 <div align="left">
+  <a href="https://linkedin.com/in/alejandrosandi">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/alejandrosandi_">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://facebook.com/alejandrosandi">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="mailto:a.sandi.developer@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
