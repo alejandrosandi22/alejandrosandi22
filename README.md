@@ -12,7 +12,7 @@ I am passionate about programming, so in my free time I do different personal pr
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e476yg7l4ss62sf0sujho7w7w2sx7pd6xfon2zm73sv&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/Rmu0SUVH8l1du/giphy.gif?cid=790b7611b66577aa2f794e92928ddd81f7f7627f25bcee10&rid=giphy.gif&ct=g"  />
 
 ###
 
