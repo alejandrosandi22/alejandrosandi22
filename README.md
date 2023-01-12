@@ -1,6 +1,9 @@
 <h1 align="left">Alejandro Sandí</h2>
-<h4 align="justify">I am a web developer and I am currently a student at the Distance State University of Costa Rica in a computer science career. I obtained a technical degree in network computing at the CTPR San Carlos, and I did the professional practice at the Golabs development company, where I used different technologies such as Angular, Vue.js and the integration of face-api.js for facial recognition.
-I am passionate about programming, so in my free time I do different personal projects using technologies such as React, Angular, Vue.js, Typescript, Next.js, Node.js, MongoDB and others. Which I keep in my web portfolio.</h4>
+<h4 align="justify">I specialize in building responsive, user-friendly websites and web applications. My skillset includes a strong proficiency in HTML, Sass, Tailwind CSS, React, Next.js, MongoDB, and GraphQL I am passionate about creating visually appealing and intuitive designs that provide a seamless user experience.
+
+I have worked as an intern at the development company Golabs where I have worked with groups of people from whom I have learned a lot. I am a computer science student at the State Distance University. I received a technical degree in network computing at CTPR San Carlos.
+
+I always look for new challenges and opportunities to expand my skill set and work. I am committed to delivering high-quality results on-time and on budget. If you have a project that needs a web developer, don't hesitate to contact me!</h4>
 
 ### [Visit my web portfolio](https://alejandrosandi.com)
 ###
