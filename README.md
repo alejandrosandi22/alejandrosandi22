@@ -1,9 +1,7 @@
 <h1 align="left">Alejandro Sandí</h2>
-<h4 align="justify">I specialize in building responsive, user-friendly websites and web applications. My skillset includes a strong proficiency in HTML, Sass, Tailwind CSS, React, Next.js, MongoDB, and GraphQL I am passionate about creating visually appealing and intuitive designs that provide a seamless user experience.
+<h4 align="justify">I specialize in building responsive and user-friendly websites and web applications using HTML, Sass, Tailwind CSS, React, Next.js, MongoDB, and GraphQL. I'm passionate about creating visually appealing and intuitive designs that provide a seamless user experience.
 
-I have worked as an intern at the development company Golabs where I have worked with groups of people from whom I have learned a lot. I am a computer science student at the State Distance University. I received a technical degree in network computing at CTPR San Carlos.
-
-I always look for new challenges and opportunities to expand my skill set and work. I am committed to delivering high-quality results on-time and on budget. If you have a project that needs a web developer, don't hesitate to contact me!</h4>
+I'm committed to delivering high-quality results on time and within budget, and I'm always looking for new challenges and opportunities to expand my skill set.</h4>
 
 ### [Visit my web portfolio](https://alejandrosandi.com)
 ###
