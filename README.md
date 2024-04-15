@@ -1,9 +1,21 @@
-<h1 align="left">Alejandro Sandí</h2>
-<h4 align="justify">I specialize in building responsive and user-friendly websites and web applications using HTML, Sass, Tailwind CSS, React, Next.js, MongoDB, and GraphQL. I'm passionate about creating visually appealing and intuitive designs that provide a seamless user experience.
+<h1 align="left">Alejandro Sandí</h1>
+<pHello! I'm a passionate Web Developer with nearly 2 years of professional experience in the industry. My focus is on leveraging cutting-edge technologies to enhance business outcomes through continuous skill development.
+<p>
+Throughout my time in the industry, I've worked on a variety of exciting projects ranging from full-stack web application development to optimizing existing projects. My experience includes working with technologies such as React, Next.js, Angular, Node.js, Laravel, and Vue.js, enabling me to easily adapt to different technological environments and tackle diverse technical challenges.
+</p>
+<p>
+I stand out for my ability to lead significant technical initiatives, such as successfully migrating a Laravel web application to Node.js, which significantly improved scalability and performance. Additionally, I've closely collaborated with multidisciplinary teams to design and implement scalable front-end architectures and intuitive user interfaces that enhance the end-user experience.
+</p>
+<p>
+  
+My focus on problem-solving, adaptability, and collaborative work has allowed me to deliver high-quality results in dynamic development environments. Furthermore, my experience as a freelance developer has provided me with a unique perspective on understanding and effectively meeting client needs.
+</p>
+<p>
+  
+I'm excited to continue growing professionally and contributing to the success of innovative projects. I'm always open to new opportunities for learning and collaboration. Connect with me to discuss how we can work together!
+</p>
 
-I'm committed to delivering high-quality results on time and within budget, and I'm always looking for new challenges and opportunities to expand my skill set.</h4>
-
-### [Visit my web portfolio](https://alejandrosandi.com)
+### [Visit my web portfolio](https://alejandrosandi.dev)
 ###
 
 <div align="center">
