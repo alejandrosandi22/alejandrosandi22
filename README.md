@@ -1,11 +1,19 @@
 <h1 align="center">Hi! I'm Alejandro Sandí</h1>
 
+<div align="center">
+<a href="https://alejandrosandi.dev" target="_blank">Website</a>
+•
+<a href="https://linkedin.com/in/alejandrosandi" target="_blank">LinkedIn</a>
+•
+<a href="mailto:a.sandi.developer@gmail.com" target="_blank">Email</a>
+</div>
+
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo" title="HTML" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo" title="CSS" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="26" alt="tailwindcss logo"  />
   <img width="12" />
@@ -42,5 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alejandrosandi22&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrosandi22&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
-
-###
